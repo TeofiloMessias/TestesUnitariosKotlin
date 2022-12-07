@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="portariaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-21T14:01:21" hostname="BRNOFF5E223EEE8" time="0.02">
+  <properties/>
+  <testcase name="Testa os cenarios da portaria" classname="portariaTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
